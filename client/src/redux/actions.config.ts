@@ -1,0 +1,4 @@
+export default {
+    SET_FLIGHTS: "SET_FLIGHTS_ACTION",
+    DELETE_FLIGHT: "DELETE_FLIGHT_ACTION" 
+};
